@@ -20,7 +20,7 @@ Download the project folder, and run an npm i to install express js
 
 ## Usage
 
-type npm run seed, and then npm start in terminal
+type npm run seed, and then npm start in terminal. open up insomnia and input get/post/put/delete routes
 
    ![alt text](assets/images/screenshot.png)
 
